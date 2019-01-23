@@ -1,0 +1,127 @@
+2018-09-07 11:21:53,388-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-09-07 11:21:54,298-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-09-07 11:21:54,298-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.testdata on driverType2
+2018-09-07 11:23:39,496-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 11:23:39,499-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.testdata on driverType2
+2018-09-07 11:26:07,715-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 11:26:07,718-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.testdata on driverType3
+2018-09-07 11:28:27,634-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 11:28:27,636-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 11:29:32,652-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 11:29:32,654-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 11:31:21,762-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 11:31:21,764-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 11:47:21,603-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 11:47:21,634-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-09-07 11:47:32,679-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(32) - runDriver is ie......
+2018-09-07 11:47:47,287-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 11:47:56,928-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 11:47:56,928-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 11:53:49,569-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 11:53:49,600-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 11:53:57,076-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-09-07 11:54:05,787-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.getRowCount(186) - sql query no data!
+2018-09-07 11:54:05,787-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.getData(233) - sql query no data!
+2018-09-07 11:54:10,135-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 13:37:48,354-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 13:37:48,354-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.testdata on driverType2
+2018-09-07 13:37:55,072-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(32) - runDriver is ie......
+2018-09-07 13:37:56,587-[SeleniumAutoFile] INFO [Forwarding sendKeysToElement on session 5b5aafb2-4ec0-4e31-89d1-598f399024f8 to remote] org.apache.http.impl.execchain.RetryExec.execute(97) - I/O exception (java.net.SocketException) caught when processing request to {}->http://localhost:2577: Permission denied: connect
+2018-09-07 13:37:56,587-[SeleniumAutoFile] INFO [Forwarding sendKeysToElement on session 5b5aafb2-4ec0-4e31-89d1-598f399024f8 to remote] org.apache.http.impl.execchain.RetryExec.execute(113) - Retrying request to {}->http://localhost:2577
+2018-09-07 13:38:15,115-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 13:41:31,709-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 13:41:31,709-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.testdata on driverType2
+2018-09-07 13:41:31,725-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 13:43:36,832-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 13:43:36,832-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.testdata on driverType2
+2018-09-07 13:43:36,848-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 13:54:36,065-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 13:54:36,065-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 13:54:36,080-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 13:54:36,363-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:01:27,838-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:01:27,838-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:01:27,838-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:01:27,869-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:02:09,553-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:02:09,553-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:02:09,553-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:02:09,568-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:10:35,804-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:10:35,806-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-09-07 14:10:35,813-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:10:35,832-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:13:11,987-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:13:11,989-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:13:11,996-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:13:12,012-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:15:26,364-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:15:26,366-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:15:26,372-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:15:26,388-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:20:11,173-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:20:11,175-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:20:11,183-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:20:11,214-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:21:27,512-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:21:27,514-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:21:27,520-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:21:27,535-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:23:30,835-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:23:30,837-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:23:30,844-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:23:30,864-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:25:10,314-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:25:10,316-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:25:10,331-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:25:10,347-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:29:41,094-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:29:41,096-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:29:41,104-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:29:41,121-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:43:34,373-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:43:34,396-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:43:34,402-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:43:34,498-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:44:49,456-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:44:49,458-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:44:49,465-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:44:49,480-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:49:07,735-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:49:07,737-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:49:07,745-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:49:07,763-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:51:45,769-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:51:45,771-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:51:45,778-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:51:45,793-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 14:56:19,796-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 14:56:19,798-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 14:56:19,805-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 14:56:19,959-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(37) - locate file ok!
+2018-09-07 14:56:19,960-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(38) - /D:/测试1/autotest/target/test-classes/testdata/com/cases_new/test_login.xls
+2018-09-07 14:56:30,459-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-09-07 14:56:44,387-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-09-07 14:56:50,505-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 15:00:30,560-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 15:00:30,562-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 15:00:30,569-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 15:00:30,738-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(37) - locate file ok!
+2018-09-07 15:00:30,739-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(38) - /D:/测试1/autotest/target/test-classes/testdata/com/cases_new/test_login.xls
+2018-09-07 15:01:06,366-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 15:01:06,368-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 15:01:06,375-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 15:01:06,600-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(37) - locate file ok!
+2018-09-07 15:01:06,601-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(38) - /D:/测试1/autotest/target/test-classes/testdata/com/cases_new/test_login.xls
+2018-09-07 15:01:09,923-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-09-07 15:01:19,212-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-09-07 15:01:25,841-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-09-07 15:04:39,106-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-09-07 15:04:39,108-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-09-07 15:04:39,117-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2018-09-07 15:04:39,334-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(37) - locate file ok!
+2018-09-07 15:04:39,335-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(38) - /D:/测试1/autotest/target/test-classes/testdata/com/cases_new/test_login.xls
+2018-09-07 15:04:42,773-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-09-07 15:04:46,627-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.getRowCount(186) - sql query no data!
+2018-09-07 15:04:46,627-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.getData(233) - sql query no data!
+2018-09-07 15:04:50,201-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated

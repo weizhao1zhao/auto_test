@@ -1,0 +1,117 @@
+2018-08-31 10:02:22,927-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 10:02:22,932-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 10:02:22,932-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 10:03:07,421-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 10:03:07,430-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 10:03:07,430-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 10:17:31,274-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 10:17:31,574-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 10:17:31,574-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 10:23:49,606-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 10:23:49,713-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 10:23:49,713-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 10:26:23,596-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 10:26:23,672-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 10:26:23,672-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 10:27:09,832-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 10:27:09,911-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 10:27:09,911-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 10:30:52,144-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 10:30:52,237-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 10:30:52,237-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 10:38:12,453-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 10:38:12,537-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 10:38:12,537-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 10:40:23,954-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 10:40:24,145-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 10:40:24,145-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 10:40:49,184-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 10:40:49,263-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 10:40:49,263-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:07:58,111-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:07:58,532-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:07:58,532-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:10:18,126-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:10:18,204-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:10:18,204-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:11:00,814-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:11:00,892-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:11:00,892-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:11:38,411-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:11:38,521-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:11:38,521-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:18:53,528-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:18:53,622-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:18:53,622-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:25:46,444-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:25:46,807-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:25:46,807-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:28:20,903-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:28:20,985-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:28:20,986-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:29:21,196-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:29:22,771-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:29:22,772-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:30:12,233-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:30:12,236-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:34:59,322-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:34:59,399-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:34:59,399-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:35:56,386-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:35:56,498-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:35:56,498-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:36:47,977-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(50) - undefined db type !
+2018-08-31 11:36:48,058-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:36:48,058-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:48:06,901-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:48:06,904-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:55:13,280-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(56) - Cannot connect to database server
+2018-08-31 11:55:13,318-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:56:59,340-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 11:56:59,343-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 11:58:42,542-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 11:58:42,545-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 12:18:41,129-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 12:18:41,132-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 12:20:05,378-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 12:20:05,381-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 12:21:40,721-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 12:21:40,726-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-08-31 12:25:29,484-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 12:25:29,486-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-08-31 12:34:42,482-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 12:34:42,483-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-08-31 12:34:47,506-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-08-31 12:34:53,127-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-08-31 13:33:49,826-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 13:33:49,828-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-08-31 13:33:54,202-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-08-31 13:34:06,905-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-08-31 13:46:32,587-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 13:46:32,589-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-08-31 13:46:36,562-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-08-31 13:46:48,467-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-08-31 13:51:01,301-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 13:51:01,303-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-08-31 13:51:04,784-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-08-31 13:51:11,977-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-08-31 13:53:55,874-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 13:53:55,876-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-08-31 13:53:59,424-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-08-31 13:54:06,640-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-08-31 13:54:32,464-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 13:54:32,466-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-08-31 13:54:36,047-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-08-31 13:54:42,912-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-08-31 14:47:01,901-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 14:47:01,909-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 14:47:14,272-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(32) - runDriver is ie......
+2018-08-31 14:47:35,735-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-08-31 14:48:22,338-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 14:48:22,340-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType2
+2018-08-31 14:48:27,488-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(32) - runDriver is ie......
+2018-08-31 14:48:43,718-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated
+2018-08-31 14:50:30,491-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(53) - Database connection established
+2018-08-31 14:50:30,493-[SeleniumAutoFile] INFO [main] com.cases_new.TestBase.beforeClass(76) - Start to run test class com.cases_new.test_login on driverType3
+2018-08-31 14:50:40,798-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(39) - runDriver is chrome......
+2018-08-31 14:50:54,044-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(70) - Database connection terminated

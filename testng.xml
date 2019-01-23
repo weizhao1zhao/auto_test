@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="suite">
+    <test name="test">
+        <parameter name ="driverType" value ="3" />
+        <classes>
+            <class name="com.cases_new.test_login"/>
+
+        </classes>
+    </test>
+    <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter" />
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+    </listeners>
+</suite>

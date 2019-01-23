@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.testng:testng:6.8.8">
+    <CLASSES>
+      <root url="jar://E:/new/apache-maven-3.5.2-bin/repository/org/testng/testng/6.8.8/testng-6.8.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/new/apache-maven-3.5.2-bin/repository/org/testng/testng/6.8.8/testng-6.8.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/new/apache-maven-3.5.2-bin/repository/org/testng/testng/6.8.8/testng-6.8.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
